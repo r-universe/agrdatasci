@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "gdistance",
+    "oncran": true
+  },
+  {
     "package": "gosset",
     "oncran": true
   }
