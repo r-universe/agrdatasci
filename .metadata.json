@@ -1,10 +1,6 @@
 [
   {
-    "package": "ag5Tools",
-    "oncran": true
-  },
-  {
-    "package": "climatrends",
+    "package": "gosset",
     "oncran": true
   },
   {
@@ -12,11 +8,15 @@
     "oncran": true
   },
   {
+    "package": "climatrends",
+    "oncran": true
+  },
+  {
     "package": "gdistance",
     "oncran": true
   },
   {
-    "package": "gosset",
+    "package": "ag5Tools",
     "oncran": true
   }
 ]
