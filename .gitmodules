@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ClimMobTools"]
+	path = ClimMobTools
+	url = https://github.com/agrdatasci/climmobtools
 [submodule "ag5Tools"]
 	path = ag5Tools
 	url = https://github.com/agrdatasci/ag5tools
 [submodule "climatrends"]
 	path = climatrends
 	url = https://github.com/agrdatasci/climatrends
-[submodule "ClimMobTools"]
-	path = ClimMobTools
-	url = https://github.com/agrdatasci/climmobtools
 [submodule "gdistance"]
 	path = gdistance
 	url = https://github.com/agrdatasci/gdistance
